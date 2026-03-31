@@ -24,8 +24,3 @@ Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia, entendo tudo de mon
 * [ ] Lógica de Programação
 * [ ] Sintaxe do Java
 * [ ] Desenvolvimento de Games
-
----
-
-### 📊 Meu Progresso no GitHub
-![Estatísticas do Diego](https://github-readme-stats.vercel.app/api?username=DiegoAlvesOFC&show_icons=true&theme=radical)
