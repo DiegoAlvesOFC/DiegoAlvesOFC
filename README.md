@@ -19,8 +19,3 @@ Sou um entusiasta de tecnologia e futuro desenvolvedor de games. Estou unindo o 
 ### 🔧 Skills de Infraestrutura
 * **Montagem e Desmontagem** completa de setups.
 * **Formatação e Instalação** de SO e drivers.
-
----
-
-### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DiegoAlvesOFC&show_icons=true&theme=radical)
