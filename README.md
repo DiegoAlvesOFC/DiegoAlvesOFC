@@ -24,7 +24,3 @@ Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia, entendo tudo de mon
 * [ ] Lógica de Programação
 * [ ] Sintaxe do Java
 * [ ] Desenvolvimento de Games
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndWhndmRxdnd4Ynd4Ynd4Ynd4Ynd4Ynd4Ynd4Ynd4Ynd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VudCZjdD1n/v9G3NGS3js4HcxAnJJ/giphy.gif" alt="Solo Leveling Gif" width="100%">
-</p>
