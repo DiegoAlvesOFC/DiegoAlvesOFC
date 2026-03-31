@@ -1,16 +1,16 @@
 ## 🕹️ Salve Tropa! Eu sou o Diego Alves
 
-Sou um entusiasta de tecnologia e futuro desenvolvedor de games. Estou unindo o conhecimento técnico de hardware com a criatividade do código.
+Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia, entendo tudo de montagem de PCs e agora estou iniciando minha jornada para me tornar um **Desenvolvedor de Games**.
 
-- 🎮 **Foco atual:** Iniciando no desenvolvimento de games.
-- ☕ **Estudando:** Lógica de programação com **Java**.
-- 🛠️ **Hardware:** Curso básico concluído em Montagem e Manutenção de PCs.
-- 🚀 **Objetivo:** Criar jogos otimizados que rodam bem em qualquer máquina.
+- 🎯 **Status Atual:** Iniciando do zero os estudos de lógica de programação.
+- ☕ **Próximo Passo:** Aprender a linguagem **Java**.
+- 🛠️ **Expertise:** Manutenção, montagem de computadores e configuração de sistemas (Windows/Software).
+- 🚀 **Objetivo:** Unir meu conhecimento de hardware com a criação de jogos.
 
 ---
 
 ### 🛠️ Tecnologias & Conhecimentos
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Hardware](https://img.shields.io/badge/Hardware-4B4B4B?style=for-the-badge&logo=cpu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
