@@ -25,4 +25,4 @@ Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia, entendo tudo de mon
 * [ ] Sintaxe do Java
 * [ ] Desenvolvimento de Games
 
-![Solo Leveling](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV1dzNkc3VyMDF5N3VzMjN1bDQyeDFnZHhpeGJqZWdubWE5aGt6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HidxJODnXSSZxYlkwy/giphy.gif)
+![Solo Leveling GIF](https://media.tenor.com/i77dF6VA7zAAAAAi/solo-leveling.gif)
